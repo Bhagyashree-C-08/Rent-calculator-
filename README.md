@@ -1,0 +1,1 @@
+This Python script helps in calculating the fair share of expenses for individuals sharing a room. It prompts users to input the rent of the room, food charges, electricity bill amount, and the number of people living together. Based on these inputs, it calculates the total bill and divides it equally among the residents.
